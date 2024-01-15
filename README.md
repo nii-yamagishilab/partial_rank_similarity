@@ -1,5 +1,5 @@
 
-[![DOI](zenodo link)
+[Data and pretrained models on Zenodo](https://zenodo.org/records/8409156)
 
 Implentation of the [PRS paper](link).
 
