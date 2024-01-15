@@ -1,7 +1,7 @@
 
 [Data and pretrained models on Zenodo](https://zenodo.org/records/8409156)
 
-Implentation of the [PRS paper](link).
+Implentation of the [PRS paper](https://arxiv.org/abs/2310.05078).
 
 
 ## Downloads: 
